@@ -1,0 +1,3 @@
+client1@gmail.com
+contact@entreprise.com
+test@example.org
